@@ -3,16 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "start": "node src/schema.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@apollo/server": "^4.5.0",
     "apollo-server-lambda": "^3.6.2",
     "aws-sdk": "^2.1060.0",
+    "graphql": "^16.6.0",
     "uuid": "^8.3.2"
   },
   "devDependencies": {

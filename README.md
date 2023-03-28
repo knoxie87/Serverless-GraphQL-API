@@ -1,1 +1,1 @@
-# Kendo
+# Serverless-GraphQL-API

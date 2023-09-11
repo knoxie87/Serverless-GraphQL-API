@@ -6,7 +6,5 @@
 For all crud functionality testing using jest, please view the following test files
 
 Serverless-GraphQL-API/src/mutation/configuration.test.js
-
 Serverless-GraphQL-API/src/resolvers.test.js
-
 Serverless-GraphQL-API/src/query/configuration.test.js
